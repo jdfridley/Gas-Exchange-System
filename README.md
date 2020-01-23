@@ -1,4 +1,4 @@
-#A low-cost, automated, closed gas exchange system
+# A low-cost, automated, closed gas exchange system
 
 This directory includes documentation for an automated closed gas exchange system for whole-plant C flux measurements, built at Syracuse University in 2018. 
 
