@@ -11,5 +11,5 @@ Documentation includes:
 - Design schematics
   - Top (shoot chambers and solenoids)
   - Bottom (root chambers and solenoids)
-- Parts list and prices
+- [Parts list and prices](https://docs.google.com/spreadsheets/d/15cYQSMBujlLyQofsNWC2RCEgFmUwwUSOPESgwWaOfPI/edit?usp=sharing)
 - [R control code](R-Gasman-interface5.R)
