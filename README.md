@@ -2,7 +2,7 @@
 
 This directory includes documentation for an automated closed gas exchange system for whole-plant C flux measurements, built at Syracuse University in 2018. 
 
-(gas-flux-system.jpg)
+[](gas-flux-system.jpg)
 
 **Citation**: Fridley et al. Metabolic scaling of roots and shoots: integrating power-law mass-flux relationships into studies of whole-plant carbon allocation (**forthcoming**).
 
