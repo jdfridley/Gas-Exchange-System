@@ -12,4 +12,4 @@ Documentation includes:
   - Top (shoot chambers and solenoids)
   - Bottom (root chambers and solenoids)
 - Parts list and prices
-- R control code
+- [R control code](R-Gasman-interface5.R)
